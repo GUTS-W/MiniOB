@@ -1,3 +1,7 @@
+详细具体过程见[MiniOB: MiniOB实验_main分支为最终版](https://gitee.com/sdu-bzy/miniob)
+
+完成basic、drop_table、dates、like、update、join_table
+
 # MiniOB 概述
 
 MiniOB 是 [OceanBase](https://github.com/oceanbase/oceanbase) 团队基于华中科技大学数据库课程原型，联合多所高校重新开发的、专为零基础的同学设计的数据库入门学习项目。我们的目标是为在校学生、数据库从业者、爱好者或对基础技术感兴趣的人提供一个友好的数据库学习项目。
